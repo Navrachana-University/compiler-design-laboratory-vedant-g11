@@ -4,18 +4,18 @@ RaceCode is a custom compiler built using **Lex (Flex)** and **Yacc (Bison)** th
 
 ---
 ## Rules of Language
-•	lightsout: Marks the start of the program
-•	chequered: Marks the end of the program
-•	pitstop: Declares a variable
-•	boost: Addition operator (+)
-•	brake: Subtraction operator (-)
-•	turbo: Multiplication operator (*)
-•	slipstream: Division operator (/)
-•	telemetry: Prints a variable or expression
-•	sector: Begins an if statement
-•	then: Separates condition from the then-block
-•	else: Introduces an optional else-block
-•	endsector: Ends an if statement
+-	lightsout: Marks the start of the program
+-	chequered: Marks the end of the program
+-	pitstop: Declares a variable
+-	boost: Addition operator (+)
+-	brake: Subtraction operator (-)
+-	turbo: Multiplication operator (*)
+-	slipstream: Division operator (/)
+-	telemetry: Prints a variable or expression
+-	sector: Begins an if statement
+-	then: Separates condition from the then-block
+-	else: Introduces an optional else-block
+-	endsector: Ends an if statement
 
 - Program Structure
 lightsout
